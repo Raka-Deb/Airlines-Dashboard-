@@ -1,5 +1,12 @@
 # Airlines
 
+
+
+![image alt](https://github.com/Raka-Deb/Airlines-Dashboard-/blob/d7d11bf4e85e01a3aad9c7de2d814a3d6e86b8bc/Airlines%20.webp)
+
+
+
+
 ## Problem Statement
 
 This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
